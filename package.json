@@ -1,0 +1,27 @@
+{
+  "name": "blockchain",
+  "version": "1.0.0",
+  "description": "simple blockchain",
+  "main": "index.js",
+  "dependencies": {
+    "crypto-js": "^4.1.1",
+    "elliptic": "^6.5.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test blockchain"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/talkshrey/Blockchain.git"
+  },
+  "keywords": [
+    "blockchain"
+  ],
+  "author": "talkshrey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/talkshrey/Blockchain/issues"
+  },
+  "homepage": "https://github.com/talkshrey/Blockchain#readme"
+}
