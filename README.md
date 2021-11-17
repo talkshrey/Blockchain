@@ -1,9 +1,9 @@
 # Blockchain
-Created a new blockchain currency named pytorch <br>
+Created a new blockchain named `pytorch` <br>
 . <br>
 . <br>
 . <br>
 . <br>
 . <br>
 . <br>
-Yeah, you can call it a cryptocurrency
+Yeah, you can call it a cryptocurrency 🤷‍♂️
